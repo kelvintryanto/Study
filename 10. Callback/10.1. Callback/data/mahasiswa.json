@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Kelvin Tryanto",
+        "nrp": "2011042013",
+        "email": "kelvin.tryanto@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Angela Astrid",
+        "nrp": "2011042014",
+        "email": "angela.astrid@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Bonbon Alamsyah",
+        "nrp": "2011042015",
+        "email": "bonbon.alamsyah@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 2
+    }
+]
